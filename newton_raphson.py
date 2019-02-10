@@ -15,6 +15,7 @@ Computes the equilibrium phase compositions from the given free-energy curves
 using the Newton-Raphson root finding technique
 """
 
+
 import numpy as np
 import matplotlib.pyplot as plt
 
