@@ -14,7 +14,7 @@
 Created on Fri Aug 17 15:07:19 2018
 Tutorial 1: numerical techniques
 Integrates a function using different techniques: explicit, implicit, predictor-
-corrector and 4th-order Range-Kutta
+corrector and 4th-order Range-Kutta and compares with the analytical solution
 """
 
 import numpy as np
